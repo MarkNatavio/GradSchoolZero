@@ -9,5 +9,6 @@ This project was created by team M, which consists of
 - Mark Natavio (https://github.com/MarkNatavio)
 
 For more information on the wordpress application, go to 
-https://github.com/Matthew1172/GSZTheme
-https://github.com/Matthew1172/GSZPlugin
+> https://github.com/Matthew1172/GSZTheme
+> 
+> https://github.com/Matthew1172/GSZPlugin
