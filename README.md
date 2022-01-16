@@ -1,6 +1,11 @@
 # GradSschoolZero
 
-This is a wordpress application for a grad school application for CSC 322.
+Grad School Zero is a college graduate program management application developed by Team M, capable of administering existing and incoming students, instructors, and registrar employees. It includes key features such as:
+- A class enrollment system
+- A class rating system
+- A user complaint system
+- A grading system
+- A graduation system
 
 This project was created by team M, which consists of
 - Matthew Pecko (https://github.com/Matthew1172)
